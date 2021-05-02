@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+    app:
+      build: 
+        context: .
+        dockerfile: Dockerfile
+      volumes: 
+        - ./src:/home/src
+        - ./dataset:/home/dataset
+        - ./output:/home/output
