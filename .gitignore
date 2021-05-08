@@ -1,5 +1,8 @@
 /dataset
 /output
+/data_for_dpt
+/output_dpt
+/tmp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

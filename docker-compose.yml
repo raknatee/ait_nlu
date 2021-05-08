@@ -8,3 +8,6 @@ services:
         - ./src:/home/src
         - ./dataset:/home/dataset
         - ./output:/home/output
+        - ./data_for_dpt:/home/data_for_dpt
+        - ./output_dpt:/home/output_dpt
+        - ./tmp:/root/stanza_resources
