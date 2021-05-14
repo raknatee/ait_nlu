@@ -47,7 +47,7 @@ docker-compose exec app python ./dpt/s0_find_dpt.py
 ### Output
 see output files at /output_dpt
 
-## To read all result
+## To read all results
 
 ### run this app
 ```bash
